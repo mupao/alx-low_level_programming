@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main : where we start
+ * main -  Entry point
  * include <stidio.h> : header
  * print : "\"Programming is like building a multilingual puzzle"
  * Return : 0
