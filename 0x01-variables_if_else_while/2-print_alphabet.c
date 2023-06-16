@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main: starting point
+ * main - entry point
  * Description: prints the alphabet in lowercase\n
- * Return: 0
+ * Return: always 0 (success)
  */
 
 int main(void)
